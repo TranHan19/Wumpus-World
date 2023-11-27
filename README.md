@@ -1,0 +1,2 @@
+# Wumpus-World
+TO RUN THIS GAME:GOLIVE HTML FILE
